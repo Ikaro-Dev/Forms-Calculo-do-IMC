@@ -1,0 +1,20 @@
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.csprojAssemblyReference.cache
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.Form1.resources
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.Properties.Resources.resources
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.csproj.GenerateResource.cache
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.csproj.CoreCompileInputs.cache
+C:\PROJETOS C#\CalculoImc\bin\Debug\CalculoImc.exe.config
+C:\PROJETOS C#\CalculoImc\bin\Debug\CalculoImc.exe
+C:\PROJETOS C#\CalculoImc\bin\Debug\CalculoImc.pdb
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.exe
+C:\PROJETOS C#\CalculoImc\obj\Debug\CalculoImc.pdb
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\bin\Debug\CalculoImc.exe.config
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\bin\Debug\CalculoImc.exe
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\bin\Debug\CalculoImc.pdb
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.csprojAssemblyReference.cache
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.Form1.resources
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.Properties.Resources.resources
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.csproj.GenerateResource.cache
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.csproj.CoreCompileInputs.cache
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.exe
+C:\Users\ikaro\OneDrive\Área de Trabalho\Arquivos\Projetos pro GIT HUB\CalculoImc\obj\Debug\CalculoImc.pdb
